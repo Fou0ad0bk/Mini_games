@@ -42,4 +42,4 @@ Make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) install
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/AbdelDjaliLBlk/your-repo-name.git](https://github.com/AbdelDjaliLBlk/your-repo-name.git)
+   git clone [https://github.com/Fou0ad0bk/Mini_games.git](https://github.com/Fou0ad0bk/Mini_games.git)
